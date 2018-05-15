@@ -257,7 +257,7 @@ shmilychomi     just for a study
 JackZeng        前端工程师
 silhouette      IT小白
 xiaojiang1205    码农渣渣一枚
-zilong          1234
+zilong          
 WoeOm           ~web   er
 cooc            ceo
 isbadman        程先生
@@ -342,3 +342,5 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+WANGxue         一名小学生
+
